@@ -1,0 +1,17 @@
+.header{
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
+}
+.highscorelink{
+    color: blueviolet;
+}
+.codecontainer{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.startbutton{
+    background-color: blueviolet;
+}
+
